@@ -1,0 +1,15 @@
+//Default eslint setup
+// {
+//     "extends": ["prettier"],
+//     "plugins": ["prettier"],
+//     "rules": {
+//       "prettier/prettier": ["error"]
+//     },
+//   }
+  {
+    "extends": ["airbnb", "prettier"],
+    "plugins": ["prettier"],
+    "rules": {
+      "prettier/prettier": ["error"]
+    }
+  }
